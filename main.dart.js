@@ -55676,7 +55676,7 @@ s.toString
 A.n2(s,0,B.bQ,B.aL,B.a2)},
 $S:11}
 A.qD.prototype={
-T(a){var s=this,r=null,q=t.F,p=A.a([A.to(A.Pd("images/open-peeps-avatar.png"),75,75),A.fa("Mark Alvin Centino",r,A.d2(r,r,B.d6,r,r,r,r,r,"Inter",r,r,48,r,r,B.an,r,r,!0,r,r,r,r,r,r,r,r)),A.fa("Software Engineer",r,A.d2(r,r,B.eP,r,r,r,r,r,r,r,r,20,r,r,B.ch,r,r,!0,r,r,r,r,r,r,r,r)),B.h8,A.fa("I turn ideas into fast, accessible, and beautiful\nmobile apps.",r,A.d2(r,r,B.aK,r,r,r,r,r,r,r,r,16,r,r,B.l,r,r,!0,r,r,r,r,r,r,r,r)),B.tN,new A.ko(A.fa("View Full R\xe9sum\xe9",r,A.d2(r,r,B.d6,r,r,r,r,r,"Inter",r,r,16,r,r,B.an,r,r,!0,r,r,r,r,r,r,r,r)),new A.Qe(),1.05,r)],q),o=s.c,n=!o
+T(a){var s=this,r=null,q=t.F,p=A.a([A.to(A.Pd("assets/images/open-peeps-avatar.png"),75,75),A.fa("Mark Alvin Centino",r,A.d2(r,r,B.d6,r,r,r,r,r,"Inter",r,r,48,r,r,B.an,r,r,!0,r,r,r,r,r,r,r,r)),A.fa("Software Engineer",r,A.d2(r,r,B.eP,r,r,r,r,r,r,r,r,20,r,r,B.ch,r,r,!0,r,r,r,r,r,r,r,r)),B.h8,A.fa("I turn ideas into fast, accessible, and beautiful\nmobile apps.",r,A.d2(r,r,B.aK,r,r,r,r,r,r,r,r,16,r,r,B.l,r,r,!0,r,r,r,r,r,r,r,r)),B.tN,new A.ko(A.fa("View Full R\xe9sum\xe9",r,A.d2(r,r,B.d6,r,r,r,r,r,"Inter",r,r,16,r,r,B.an,r,r,!0,r,r,r,r,r,r,r,r)),new A.Qe(),1.05,r)],q),o=s.c,n=!o
 if(n)B.b.J(p,A.a([B.tQ],q))
 p.push(A.to(r,o?25:75,r))
 if(n)B.b.J(p,A.a([A.mZ(A.a([A.pe(A.a([new A.kO("ABOUT",50,s.d,r),B.h8,new A.kO("EXPERIENCE",50,s.e,r),B.h8,new A.kO("PROJECTS",50,s.f,r)],q),B.a1)],q),B.aB,B.aD),B.tQ],q))
